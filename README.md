@@ -1,2 +1,2 @@
-# Proyecto-BaseDatos-Gimnasio
+# Gestion de un Gimnasio
 hola
