@@ -22,7 +22,8 @@ Mensual
 Trimestral
 Semestral
 Anual
-Servicios
+
+-**Servicios**
 
 Actividades o beneficios disponibles para los usuarios.
 
@@ -34,7 +35,8 @@ Piscina
 Sauna
 Nutrición
 Entrenamiento personalizado
-Clases
+
+-**Clases**
 
 Sesiones grupales programadas.
 
@@ -45,23 +47,24 @@ Spinning
 CrossFit
 Zumba
 Pilates
-Horarios
+
+-**Horarios**
 
 Intervalos de tiempo en los que se prestan los servicios o se desarrollan las clases.
 
-Entrenador
+-**Entrenador**
 
 Empleado encargado de dirigir clases o brindar entrenamiento personalizado.
 
-Registro de asistencia
+-**Registro de asistencia**
 
 Control de las entradas y salidas de los clientes para conocer el uso del gimnasio.
 
-Reservas
+-**Reservas**
 
 Permiten a los usuarios inscribirse previamente a una clase o sesión especial.
 
-Gestión de pagos
+-**Gestión de pagos**
 
 Registro de pagos realizados por los clientes para mantener activa la membresía.
 
