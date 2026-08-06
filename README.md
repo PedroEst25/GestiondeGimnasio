@@ -1,6 +1,6 @@
 # Gestion de un Gimnasio
 ---
-# Conceptos importantes
+## Conceptos importantes
 
 **Base de datos relacional**
 
