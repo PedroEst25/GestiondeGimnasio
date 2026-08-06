@@ -9,4 +9,5 @@ Es un sistema que organiza la información en tablas relacionadas mediante clave
 # pinzon gay ciclista
 
 -**Clases**
+
 Yoga, CrossFit, Zumba, pilates.
