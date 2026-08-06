@@ -87,9 +87,9 @@ Muchos gimnasios ya no utilizan tarjetas físicas; el ingreso se realiza mediant
 
 Los sistemas modernos integran pagos con:
 
--Tarjetas
--Transferencias
--Billeteras digitales
+-Tarjetas.
+-Transferencias.
+-Billeteras digitales.
 
 ***Análisis de datos***
 
