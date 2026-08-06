@@ -64,3 +64,5 @@ Permiten a los usuarios inscribirse previamente a una clase o sesión especial.
 Gestión de pagos
 
 Registro de pagos realizados por los clientes para mantener activa la membresía.
+
+hola
