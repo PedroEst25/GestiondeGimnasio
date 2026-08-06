@@ -10,7 +10,7 @@ Es un sistema que organiza la información en tablas relacionadas mediante clave
 
 Persona registrada en el gimnasio que adquiere una membresía y utiliza los servicios ofrecidos.
 
-**Membresía**
+***Membresía***
 
 Plan contratado por el cliente que determina la duración, costo y beneficios de acceso al gimnasio.
 
