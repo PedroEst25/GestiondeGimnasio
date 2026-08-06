@@ -169,8 +169,6 @@ Es una plataforma ampliamente utilizada para gimnasios, estudios de yoga, pilate
 
 ***Herramienta 2: WodGuru***
 
-**Sitio web: WodGuru**
-
 **Descripción**
 
 WodGuru es un software de gestión para gimnasios, estudios de fitness y centros deportivos. Está diseñado para automatizar tareas administrativas como el control de miembros, pagos, reservas de clases y asistencia. Una de sus principales ventajas es su modelo de precios, pensado para pequeños y medianos gimnasios.
