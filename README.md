@@ -6,12 +6,12 @@
 
 Es un sistema que organiza la información en tablas relacionadas mediante claves primarias y foráneas, permitiendo almacenar y consultar datos de forma eficiente y segura.
 
-
-
 **Usuario o cliente**
+
 Persona registrada en el gimnasio que adquiere una membresía y utiliza los servicios ofrecidos.
 
 **Membresía**
+
 Plan contratado por el cliente que determina la duración, costo y beneficios de acceso al gimnasio.
 
 Ejemplos:
@@ -40,11 +40,11 @@ Sesiones grupales programadas.
 
 Ejemplos:
 
-Yoga
-Spinning
-CrossFit
-Zumba
-Pilates
+- *Yoga*
+- *Spinning*
+- *CrossFit*
+- *Zumba*
+- *Pilates*
 
 **Horarios**
 
@@ -65,5 +65,3 @@ Permiten a los usuarios inscribirse previamente a una clase o sesión especial.
 **Gestión de pagos**
 
 Registro de pagos realizados por los clientes para mantener activa la membresía.
-
-hola
