@@ -18,10 +18,10 @@ Plan contratado por el cliente que determina la duración, costo y beneficios de
 
 Ejemplos:
 
-Mensual
-Trimestral
-Semestral
-Anual
+*Mensual*
+*Trimestral*
+*Semestral*
+*Anual*
 
 -**Servicios**
 
