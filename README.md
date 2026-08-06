@@ -167,32 +167,32 @@ Es una plataforma ampliamente utilizada para gimnasios, estudios de yoga, pilate
 - Precio elevado para gimnasios pequeños.
 - Puede resultar complejo para nuevos usuarios.
 
-Herramienta 2: WodGuru
+***Herramienta 2: WodGuru***
 
-Sitio web: WodGuru
+**Sitio web: WodGuru**
 
-Descripción
+**Descripción**
 
 WodGuru es un software de gestión para gimnasios, estudios de fitness y centros deportivos. Está diseñado para automatizar tareas administrativas como el control de miembros, pagos, reservas de clases y asistencia. Una de sus principales ventajas es su modelo de precios, pensado para pequeños y medianos gimnasios.
 
-Funcionalidades principales
+**Funcionalidades principales**
 
-Registro y administración de clientes.
-Gestión de membresías.
-Reserva de clases y horarios.
-Control de asistencia.
-Facturación y pagos automáticos.
-Aplicación para administradores y clientes.
-Reportes sobre ingresos y asistencia.
+- Registro y administración de clientes.
+- Gestión de membresías.
+- Reserva de clases y horarios.
+- Control de asistencia.
+- Facturación y pagos automáticos.
+- Aplicación para administradores y clientes.
+- Reportes sobre ingresos y asistencia.
 
-Ventajas
+**Ventajas**
 
-Tiene un plan gratuito para gimnasios con hasta 10 miembros.
-Después del plan gratuito, cobra aproximadamente USD $1 por miembro activo al mes, lo que lo hace accesible para gimnasios pequeños.
-Permite automatizar pagos y reservas.
-Su interfaz es sencilla y fácil de aprender.
+- Tiene un plan gratuito para gimnasios con hasta 10 miembros.
+- Después del plan gratuito, cobra aproximadamente USD $1 por miembro activo al mes, lo que lo hace accesible para gimnasios pequeños.
+- Permite automatizar pagos y reservas.
+- Su interfaz es sencilla y fácil de aprender.
 
-Desventajas
+**Desventajas**
 
-Algunas funciones, como el control de acceso mediante hardware, requieren complementos de pago.
-Está orientado principalmente al mercado internacional, por lo que algunas integraciones de pago pueden variar según el país.
+- Algunas funciones, como el control de acceso mediante hardware, requieren complementos de pago.
+- Está orientado principalmente al mercado internacional, por lo que algunas integraciones de pago pueden variar según el país.
