@@ -189,7 +189,6 @@ WodGuru es un software de gestión para gimnasios, estudios de fitness y centros
 - Después del plan gratuito, cobra aproximadamente USD $1 por miembro activo al mes, lo que lo hace accesible para gimnasios pequeños.
 - Permite automatizar pagos y reservas.
 - Su interfaz es sencilla y fácil de aprender.
-
 **Desventajas**
 
 - Algunas funciones, como el control de acceso mediante hardware, requieren complementos de pago.
