@@ -193,4 +193,3 @@ WodGuru es un software de gestión para gimnasios, estudios de fitness y centros
 
 - Algunas funciones, como el control de acceso mediante hardware, requieren complementos de pago.
 - Está orientado principalmente al mercado internacional, por lo que algunas integraciones de pago pueden variar según el país.
-  
