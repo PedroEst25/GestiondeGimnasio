@@ -1,4 +1,8 @@
 # Gestion de un Gimnasio
+Julian Baena - 2243687
+Juan Serrano - 2243567
+Pedro Estupiñan - 
+Juan Diego Pinzon - 
 ---
 Sección 1.
 ---
