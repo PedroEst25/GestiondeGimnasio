@@ -1,7 +1,7 @@
 # Gestion de un Gimnasio
 Julian Baena - 2243687
 
-Pedro Estupiñan - 
+Pedro Estupiñan - 2243574
 
 Juan Serrano - 2243567
 
