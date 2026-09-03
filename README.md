@@ -1,5 +1,7 @@
 # Gestion de un Gimnasio
 ---
+Sección 1.
+---
 ## Conceptos importantes
 
 ***Base de datos relacional***
@@ -67,7 +69,7 @@ Permiten a los usuarios inscribirse previamente a una clase o sesión especial.
 Registro de pagos realizados por los clientes para mantener activa la membresía.
 
 ---
-Seccion 2.
+Sección 2.
 ---
 ## Tendencias actuales
 
@@ -116,7 +118,7 @@ Los sistemas generan automáticamente:
 Algunos gimnasios sincronizan información con relojes inteligentes para monitorear el progreso de los usuarios.
 
 ---
-Seccion 3.
+Sección 3.
 ---
 
 ## Herramientas existentes en el mercado
