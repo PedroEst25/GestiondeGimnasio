@@ -65,6 +65,7 @@ Permiten a los usuarios inscribirse previamente a una clase o sesión especial.
 ***Gestión de pagos***
 
 Registro de pagos realizados por los clientes para mantener activa la membresía.
+
 ---
 Seccion 2.
 ---
@@ -113,6 +114,7 @@ Los sistemas generan automáticamente:
 ***Integración con dispositivos inteligentes***
 
 Algunos gimnasios sincronizan información con relojes inteligentes para monitorear el progreso de los usuarios.
+
 ---
 Seccion 3.
 ---
