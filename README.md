@@ -5,7 +5,7 @@
 
 **Juan Serrano - 2243567**
 
-**Juan Diego Pinzon - 2243**
+**Juan Diego Pinzon - 2243604**
 
 ---
 Sección 1.
