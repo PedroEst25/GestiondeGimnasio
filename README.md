@@ -66,7 +66,7 @@ Permiten a los usuarios inscribirse previamente a una clase o sesión especial.
 
 Registro de pagos realizados por los clientes para mantener activa la membresía.
 ---
-#Seccion 2.
+Seccion 2.
 ---
 ## Tendencias actuales
 
@@ -113,6 +113,9 @@ Los sistemas generan automáticamente:
 ***Integración con dispositivos inteligentes***
 
 Algunos gimnasios sincronizan información con relojes inteligentes para monitorear el progreso de los usuarios.
+---
+Seccion 3.
+---
 
 ## Herramientas existentes en el mercado
 
@@ -191,6 +194,7 @@ WodGuru es un software de gestión para gimnasios, estudios de fitness y centros
 - Después del plan gratuito, cobra aproximadamente USD $1 por miembro activo al mes, lo que lo hace accesible para gimnasios pequeños.
 - Permite automatizar pagos y reservas.
 - Su interfaz es sencilla y fácil de aprender.
+
 **Desventajas**
 
 - Algunas funciones, como el control de acceso mediante hardware, requieren complementos de pago.
