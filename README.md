@@ -65,7 +65,9 @@ Permiten a los usuarios inscribirse previamente a una clase o sesión especial.
 ***Gestión de pagos***
 
 Registro de pagos realizados por los clientes para mantener activa la membresía.
-
+---
+#Seccion 2.
+---
 ## Tendencias actuales
 
 Actualmente los gimnasios están incorporando tecnologías que mejoran la experiencia del usuario y optimizan la administración.
